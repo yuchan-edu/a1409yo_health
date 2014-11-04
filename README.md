@@ -1,5 +1,7 @@
 # A1409yoHealth
 
+[![Build Status](https://travis-ci.org/yuchan-edu/a1409yo_health.svg)](https://travis-ci.org/yuchan-edu/a1409yo_health)
+
 TODO: Write a gem description
 
 ## Installation
