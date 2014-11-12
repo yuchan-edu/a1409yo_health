@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/yuchan-edu/a1409yo_health.svg)](https://travis-ci.org/yuchan-edu/a1409yo_health)
 
-TODO: Write a gem description
+Simple Health Calculator
 
 ## Installation
 
@@ -22,8 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
+    require 'a1409yo_health'
+    
+    A1409yoHealth::BMI.exec(55,170)
+    # => 19.031141868512112
+    
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/a1409yo_health/fork )
